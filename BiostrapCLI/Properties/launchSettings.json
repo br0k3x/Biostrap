@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BiostrapCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "install"
+    }
+  }
+}

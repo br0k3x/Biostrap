@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiostrapInstaller", "..\BiostrapInstaller\BiostrapInstaller.csproj", "{D2A31064-2475-496C-9AE5-C7604F691C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiostrapLauncher", "..\BiostrapLauncher\BiostrapLauncher.csproj", "{768320E6-CB6C-4BB2-8C4B-D4B5915CD03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiostrapCLI", "..\BiostrapCLI\BiostrapCLI.csproj", "{76FE3587-C153-497E-A3C9-607BB267D8ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloxstrapSettings", "..\BloxstrapSettings\BloxstrapSettings.csproj", "{9376BB3B-2BB0-4EE1-A852-26F34256AE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A31064-2475-496C-9AE5-C7604F691C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A31064-2475-496C-9AE5-C7604F691C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A31064-2475-496C-9AE5-C7604F691C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A31064-2475-496C-9AE5-C7604F691C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768320E6-CB6C-4BB2-8C4B-D4B5915CD03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768320E6-CB6C-4BB2-8C4B-D4B5915CD03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768320E6-CB6C-4BB2-8C4B-D4B5915CD03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768320E6-CB6C-4BB2-8C4B-D4B5915CD03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FE3587-C153-497E-A3C9-607BB267D8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FE3587-C153-497E-A3C9-607BB267D8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FE3587-C153-497E-A3C9-607BB267D8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FE3587-C153-497E-A3C9-607BB267D8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9376BB3B-2BB0-4EE1-A852-26F34256AE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9376BB3B-2BB0-4EE1-A852-26F34256AE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9376BB3B-2BB0-4EE1-A852-26F34256AE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9376BB3B-2BB0-4EE1-A852-26F34256AE96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42AF6C62-7FF0-4DD5-BDC8-7CF972EED7D5}
+	EndGlobalSection
+EndGlobal
